@@ -1,0 +1,39 @@
+{
+  "passengers": 256,
+  "company_name": "PAVLITO",
+  "initial_location": {
+    "longitude": 34.781668,
+      "latitude": 32.113742,
+    "date_time": "2020-05-28T07:08:00Z"
+  },
+  "segments": [
+    {
+      "longitude": 34.981876,
+      "latitude": 32.804419,
+      "timespan_seconds": 10000
+    },
+	{
+      "longitude": 35.558081,
+      "latitude": 32.861536,
+      "timespan_seconds": 6000
+    }
+	,
+	{
+      "longitude": 35.558081,
+      "latitude": 32.861536,
+      "timespan_seconds": 6000
+    }
+	,
+	{
+      "longitude": 35.605644,
+      "latitude": 32.723796,
+      "timespan_seconds": 6000
+    }
+		,
+	{
+      "longitude": 34.802250,
+      "latitude": 30.857419,
+      "timespan_seconds": 6000
+    }
+  ]
+}

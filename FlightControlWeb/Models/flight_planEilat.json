@@ -1,0 +1,21 @@
+{
+  "passengers": 2,
+  "company_name": "ISRAIR",
+  "initial_location": {
+    "longitude": 34.957610,
+    "latitude": 29.555631,
+    "date_time": "2020-05-26T15:26:00Z"
+  },
+  "segments": [
+    {
+      "longitude": 35.211514,
+      "latitude": 31.769399,
+      "timespan_seconds": 10000
+    },
+	{
+      "longitude": 34.781668,
+      "latitude": 32.113742,
+      "timespan_seconds": 6000
+    }
+  ]
+}
